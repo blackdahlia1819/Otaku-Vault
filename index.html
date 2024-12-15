@@ -256,10 +256,7 @@
 
     <!-- Background Music -->
     <audio autoplay loop id="background-audio">
-      <source
-        src="https://www.fesliyanstudios.com/play-mp3/573"
-        type="audio/mp3"
-      />
+      <source src="song.mp3" type="audio/mp3" />
       Your browser does not support the audio element.
     </audio>
 
@@ -580,6 +577,7 @@
     <script>
       const playButton = document.getElementById("play-button");
       const audio = document.getElementById("background-audio");
+      audio.volume = 0.2;
 
       playButton.addEventListener("click", () => {
         if (audio.paused) {
