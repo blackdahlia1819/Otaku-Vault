@@ -66,7 +66,7 @@ Inspired by the passion and creativity of anime fans worldwide.
 
 Special thanks to the anime community for their continued support and love.
 
-This is the code...idk if you can already see it somewhere else but im extremely new to Github and web dev in general, so here's the code just in case♡
+This is the code...idk if you can already see it somewhere else but im extremely new to Github and web dev in general, i just started coding and web dev 4 weeks ago, ebfore that ive never been in tec at all. So please be patient and enjoy this project, also here's the code just in case♡
 
 [Uploading index.html…]()<!DOCTYPE html>
 <html lang="en">
